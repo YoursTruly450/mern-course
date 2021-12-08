@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "orion canis",
+  "mongoUri": "mongodb+srv://YoursTruly:3e761c4a@cluster0.cz7va.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
