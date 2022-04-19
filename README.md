@@ -1,6 +1,2 @@
 # mern-course
-
-mongoDB
-express
-react
-nodeJS
+mongoDB express react nodeJS
